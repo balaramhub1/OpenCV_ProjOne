@@ -5,20 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc6c4cf3-c1b8-4654-b8f7-3c7cefb5ee15" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/2_image_manupulation/ImageFlipOne.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_image_manupulation/ImagePixelChange.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_image_manupulation/ImageResizeAspectRation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_image_manupulation/ImageResizeOne.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_image_manupulation/ImageResizeScalingFactor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_image_manupulation/readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_image_annotation/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_videos_basics/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/sample_images/New_Zealand_Boat.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/sample_images/checkerboard_18x18.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/sample_images/checkerboardimg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_image_annotation/ImageAnnotationOne.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_image_annotation/ImageAnnotationTwo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_image_enhancement/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/OpenCV_ProjOne.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/OpenCV_ProjOne.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_videos_basics/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_image_manupulation/ImageCroppingOne.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,17 +30,18 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="31hYb0CyKKbEipu8XdB3TSh90NX" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.ImageAnnotationOne.executor": "Run",
+    "Python.ImageAnnotationTwo.executor": "Run",
     "Python.ImageConvertColorOne.executor": "Run",
     "Python.ImageCroppingOne.executor": "Run",
     "Python.ImageFlipOne.executor": "Run",
@@ -61,8 +54,10 @@
     "Python.ImageWriteOne.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/Users/beherb2/PycharmProjects/OpenCV_ProjOne/resources/sample_images"
+    "last_opened_file_path": "/Users/beherb2/PycharmProjects/OpenCV_ProjOne"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -97,7 +92,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-5a2391486177-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13763.11" />
+        <option value="bundled-python-sdk-598b0484d0b5-e2d783800521-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.26927.74" />
       </set>
     </attachedChunks>
   </component>
